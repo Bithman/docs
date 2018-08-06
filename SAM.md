@@ -63,7 +63,6 @@ levels<---{
 
 ```
 wifi<----{
-    "_id": "5b521ea8819cf148909174ae",
     "type": "ASK_WIFI_CONFIG",
     "message": {
         "ssid": "Fibertel WiFi001"
@@ -101,7 +100,6 @@ wifi<----{
 #### Una vez que se pudo aplicar la configuracion wifi, tambien se pasa a instalar el equipo en la plataforma.
 ```
 service<----{
-    "_id": "5b684c42819cf148909421d7",
     "type": "CONFIRM_SERVICE",
     "message": {
         "services": [
@@ -117,7 +115,6 @@ service<----{
 #### El campo 'message.result' contiene si el tecnico valida la instalacion o la revierte.
 ```
 ---->{
-    "_id": "5b57844e819cf1489091f9d9",
     "type": "VALIDATESERVICE",
     "message": {
         "result": "YES" or "NO"
@@ -130,7 +127,6 @@ service<----{
 #### Lo cual dependiendo de la respuesta del tecnico puede derivar en dos respuestas finales.
 ```
 success<----{
-    "_id": "5b684bad819cf148909421c7",
     "type": "ACTIVATION_SUCCESS",
     "message": {},
     "outlet": "1126755555",
@@ -140,7 +136,6 @@ success<----{
 ```
 ```
 rollback<----{
-    "_id": "5b684bad819cf148909421c7",
     "type": "ROLLBACK_SUCCESS",
     "message": {},
     "outlet": "1126755555",
