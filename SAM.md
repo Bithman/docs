@@ -10,7 +10,7 @@
     "resourceType": "cablemodem",
     "outlet": "1126755555",
     "workOrder": "394055555",
-    "action": "swap",
+    "action": "ADD",
     "serialNumber": "7456121F5F56",
     "equipmentType": "Modem",
     "range": "Cable Modem Wifi",
