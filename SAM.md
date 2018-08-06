@@ -55,8 +55,7 @@ levels<---{
     },
     "outlet": "1126755555",
     "workOrder": "394055555",
-    "serialNumber": "7456121F5F56",
-    "timestamp": "2018-07-20T19:18:37.850Z"
+    "serialNumber": "7456121F5F56"
 }
 ```
 
@@ -71,8 +70,7 @@ wifi<----{
     },
     "outlet": "1126755555",
     "workOrder": "394055555",
-    "serialNumber": "7456121F5F56",
-    "timestamp": "2018-07-20T17:39:02.754Z"
+    "serialNumber": "7456121F5F56"
 }
 ```
 ## Envio de la configuracion Wifi a aplicar
@@ -112,8 +110,7 @@ service<----{
     },
     "outlet": "1126755555",
     "workOrder": "394055555",
-    "serialNumber": "7456121F5F56",
-    "timestamp": "2018-08-06T13:23:17.286Z"
+    "serialNumber": "7456121F5F56"
 }
 ```
 ## Confirmacion de los servicios instalados
@@ -127,8 +124,7 @@ service<----{
     },
     "outlet": "1126755555",
     "workOrder": "394055555",,
-    "serialNumber": "7456121F5F56",
-    "timestamp": "2018-07-24T19:55:26.163Z"
+    "serialNumber": "7456121F5F56"
 }
 ```
 #### Lo cual dependiendo de la respuesta del tecnico puede derivar en dos respuestas finales.
@@ -139,8 +135,7 @@ success<----{
     "message": {},
     "outlet": "1126755555",
     "workOrder": "394055555",
-    "serialNumber": "7456121F5F56",
-    "timestamp": "2018-07-24T19:55:58.901Z"
+    "serialNumber": "7456121F5F56"
 }
 ```
 ```
@@ -150,6 +145,5 @@ rollback<----{
     "message": {},
     "outlet": "1126755555",
     "workOrder": "394055555",
-    "serialNumber": "7456121F5F56",
-    "timestamp": "2018-07-24T19:55:58.901Z"
+    "serialNumber": "7456121F5F56"
 }
